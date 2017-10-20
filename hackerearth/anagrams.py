@@ -1,3 +1,8 @@
+'''
+
+also asked in inmobi
+
+'''
 from collections import Counter
 for i in range(int(input())):
 	a=input()
