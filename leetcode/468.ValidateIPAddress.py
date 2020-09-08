@@ -1,4 +1,4 @@
-/*
+'''
 
 Given a string IP, return "IPv4" if IP is a valid IPv4 address, "IPv6" if IP is a valid IPv6 address or "Neither" if IP is not a correct IP of any type.
 
@@ -43,7 +43,7 @@ Constraints:
 IP consists only of English letters, digits and the characters '.' and ':'.
 
 
-*/
+'''
 
 
 class Solution:
