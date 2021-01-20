@@ -4,6 +4,7 @@ Given an array A containing 2*N+2 positive numbers, out of which 2*N numbers exi
 
 Example 1:
 
+
 Input: 
 2
 1 2 3 2 1 4
