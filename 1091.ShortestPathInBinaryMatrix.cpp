@@ -56,7 +56,7 @@ public:
             i=q.front().first;
             j=q.front().second;
             if(i==n-1 and j==n-1){
-                cout<<i<<" "<<j<<endl;
+                //cout<<i<<" "<<j<<endl;
                 dis=min(dis, vis[i][j]);
             }
             //top
@@ -101,7 +101,7 @@ public:
             }
             q.pop();
         }
-        cout<<"dis is "<<dis<<endl;
+        //cout<<"dis is "<<dis<<endl;
         if(dis<INT_MAX) return dis+1;
         return -1;
     }
