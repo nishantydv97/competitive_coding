@@ -6,6 +6,8 @@ Return the number of boomerangs.
 
  
 
+
+
 Example 1:
 
 Input: points = [[0,0],[1,0],[2,0]]
